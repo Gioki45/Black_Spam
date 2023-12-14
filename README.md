@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Black_Spam.git
+git clone https://github.com/Gioki45/Black_Spam.git
 cd Black_Spam
 Install Dependencies:
 
